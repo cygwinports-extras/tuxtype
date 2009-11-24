@@ -1,0 +1,8 @@
+ORIG_PN="tuxtype_w_fonts"
+
+DESCRIPTION="Typing tutor for children"
+HOMEPAGE="http://tux4kids.alioth.debian.org/tuxtype/"
+SRC_URI="https://alioth.debian.org/frs/download.php/3175/${ORIG_PN}-${PV}.tar.gz"
+
+KEEPDIRS="/etc/tuxtype /var/tuxtype/words"
+
